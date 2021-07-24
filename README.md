@@ -1,4 +1,4 @@
 # cool-rust
 
-July 24 2021 start learn
+July 25 2021 start learn
 
