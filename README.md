@@ -1,4 +1,4 @@
-# cool-rust
+## code for rust
 
-July 25 2021 start learn
+July 24 2021 start learn
 
