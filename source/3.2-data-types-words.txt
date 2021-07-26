@@ -1,0 +1,99 @@
+without a fractional component      没有小数部分
+
+
+fractional    adjective: 部分的, 断片的, 分开的, 局部的
+
+
+takes up    占用
+
+
+has an explicit size    有明确的大小
+
+
+whether the number needs to have a sign with it (signed)    该数字是否需要有符号（signed）
+
+
+negative integer    正数
+
+
+positive integer    复数
+
+
+when the sign matters       当要强调符号时
+
+
+a minus sign        负号
+
+
+two’s complement        二进制补码
+
+
+Additionally        此外
+
+
+to designate the type   指定类型
+
+
+Decimal     十进制, 小数点
+
+
+Integer Overflow    Integer 溢出
+
+
+involving       涉及
+
+
+Relying on      依赖于
+
+
+respectively    各自地, 分别地
+
+
+more precision  更精确
+
+
+roughly         大致
+
+
+capable         能够
+
+
+expect          期望, 预计, 期待, 指望
+
+
+remainder       余数
+
+
+Booleans are one byte in size       booleans 大小是一个字节
+
+
+Accented letters    重音字母
+
+
+so your human intuition for what a “character”      所以你对什么是“字符”的人类直觉  
+
+
+the vector type         向量类型
+
+
+It’s very unlikely      不太可能
+
+
+the number of elements     元素的数量
+
+
+a more concise way      更简洁的方式
+
+
+similar         类似的
+
+
+a single chunk of memory       单个内存块
+
+
+Say you change the example to the following     假设您将示例更改为以下内容
+
+
+subsets         子集
+
+    

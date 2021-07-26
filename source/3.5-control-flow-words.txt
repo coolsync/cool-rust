@@ -1,0 +1,76 @@
+Deciding whether        决定是否    
+
+repeatedly              反复 
+
+met                     碰到, 遇见
+
+then state              然后陈述
+
+
+just like               就像
+
+
+worth                   值得
+
+
+this time               这次
+
+
+and once it finds one       一旦它找到一个
+
+
+can clutter your code       可能会弄乱你的代码
+
+so if you have more than one        所以如果你有不止一个
+
+
+numbers by themselves       数字本身
+
+
+have the potential to be results        有可能成为结果
+
+
+indicates exactly       准确地表示
+
+
+definitively            明确地
+
+
+multiple hypothetical types         多种假设类型
+
+
+more than once          多次
+
+
+several loops           几个循环
+
+
+over and over again forever     一遍又一遍，直到永远
+
+
+a built-in language construct       一个内置的语言结构
+
+
+counting down each time     每次倒数
+
+
+eliminates      
+
+
+Here, the code counts up through the elements in the array.     在这里，代码通过数组中的元素向上计数。
+
+
+at some point           在某一时刻
+
+
+error prone
+
+
+or not going far enough and missing some items.
+
+
+conciseness
+
+
+situations
+

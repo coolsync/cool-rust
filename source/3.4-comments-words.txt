@@ -1,0 +1,7 @@
+strive to make      努力使
+
+extra explanation is warranted      有必要进行额外的解释
+
+For comments that extend beyond a single line       对于超出单行的注释
+
+a separate line     

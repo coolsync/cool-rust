@@ -1,0 +1,58 @@
+pervasive       普遍, 无处不在
+
+
+the conventional style      常规样式
+
+
+a set of parentheses        一组小括号
+
+
+to explore functions further        进一步探索功能
+
+
+The lines execute in the order      这些行按顺序执行
+
+
+tend to     倾向于
+
+
+interchangeably         交替使用, 互换地, 互换地使用
+
+
+a deliberate decision       深思熟虑的决定
+
+
+to figure out       弄清楚
+
+
+the preceding example       前面的例子
+
+
+optionally ending in an expression      可选地以表达式结尾
+
+
+distinction         区别
+
+
+the entire preceding example is a statement in itself.  整个前面的例子本身就是一个语句。
+
+
+the rest of          其余部分
+
+
+Expressions evaluate to something       表达式计算结果
+
+
+synonymous          同义词的, 同义的
+
+
+examine             研究一下
+
+
+reveals the core issue with this code      揭示了这段代码的核心问题
+
+
+which contradicts the function definition and results in an error.      与函数定义相矛盾并导致错误
+
+
+rectify     校正
