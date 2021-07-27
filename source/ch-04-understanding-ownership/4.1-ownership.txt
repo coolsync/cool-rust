@@ -1,0 +1,40 @@
+straightforward to explain      直截了当的解释
+
+constantly look for     不断地寻找
+
+allocate and free the memory        分配和释放内存
+
+a third approach        第三种方法
+
+None of     没有
+
+it does take some time          确实需要一些时间
+
+whether     是否
+
+a brief explanation     简要说明
+
+This is referred to as          这被称为
+
+on top of the pile      堆的顶部
+
+The heap is less organized:     堆的组织性较差：
+
+empty spot      空位
+
+is sometimes abbreviated as just allocating    有时缩写为只是分配
+
+the actual data     实际数据
+
+Comparatively       相对而言
+
+Contemporary processors     现代处理器
+
+if they jump around less in memory      如果他们在内存中的跳跃较少
+
+Continuing the analogy
+
+minimizing the amount of duplicate data
+
+so you don’t run out of space are all problems
+
